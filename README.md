@@ -9,10 +9,10 @@ Cuestionario interactivo para practicar y prepararse para el examen teórico de 
 
 Ambos modos muestran la corrección inmediatamente. En las preguntas de selección múltiple, la respuesta se evalúa al marcar la cantidad indicada de alternativas. Si te equivocas, se muestran las opciones correctas.
 
-## Cómo usarlo
+## Cómo usarlo de manera local
 
 1. Descarga o clona el repositorio.
-2. Abre `cuestionario-clase-b.html` en tu navegador.
+2. Abre `index.html` en tu navegador.
 3. Elige el modo de estudio y comienza a responder.
 
 No requiere instalación, servidor ni conexión a internet para practicar. Las preguntas y las imágenes están incluidas en el archivo. El avance se conserva mientras la página permanezca abierta, pero se pierde al cerrarla o recargarla.
